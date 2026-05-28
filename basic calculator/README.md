@@ -65,4 +65,4 @@ Result: 30
 
 ## Author
 
-Deepak
+Deepanshu
