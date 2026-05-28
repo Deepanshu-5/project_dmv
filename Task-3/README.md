@@ -57,7 +57,8 @@ The assignments demonstrate:
 ## Folder Structure
 
 project_dmv/
-└── task-3/
+
+└── task-3/ 
     ├── Day 3 Assignment.ipynb
     ├── screenshots/
     └── README.md
