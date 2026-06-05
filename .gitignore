@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Anaconda environments
+anaconda3/
+anaconda_projects/
+conda-meta/
+env/
+venv/
+.venv/
+
+# Jupyter runtime
+.jupyter/
+
+# OS files
+.DS_Store
+Thumbs.db
